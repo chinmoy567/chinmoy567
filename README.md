@@ -61,15 +61,3 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=chinmoy567&show_icons=true&theme=dark" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmoy567&layout=compact&theme=dark" />
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=chinmoy567" />
